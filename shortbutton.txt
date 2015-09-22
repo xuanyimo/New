@@ -1,0 +1,21 @@
+ctrl+v  上一屏
+
+alt+v	下一屏
+
+ctrl+l	重绘屏幕，并将光标所在行置于中央
+
+ctrl+p(previous)	上一行
+
+ctrl+n(next)		下一行
+
+ctrl+b(backward)	左移
+
+ctrl+f(forward)		右移
+
+ctrl+a	行头
+
+ctrl+e	行尾
+
+alt+a	句头
+
+alt+e	句尾
