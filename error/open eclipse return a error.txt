@@ -1,0 +1,1 @@
+the eclipse executeable launcher was unable to locate its companion shared library
