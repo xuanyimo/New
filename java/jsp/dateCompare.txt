@@ -1,0 +1,4 @@
+<jsp:useBean="now" class="java.util.Date"/>
+<c:if test="${bean.date gt now}">
+	bean.date是一个变量，要比较的量
+</c:if>
