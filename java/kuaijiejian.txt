@@ -1,0 +1,22 @@
+﻿Ctrl+D 复制行
+Ctrl+X 删除行
+ctrl+alt+b  进方法
+ctrl+u debug中的属性的置
+alt+insert 注入get和set方法
+
+alt+1 projects
+alt+2 favorates
+alt+3 method
+
+
+alt+a tool button 周围的按钮
+alt+t tool bar 工具栏
+alt+n navigate bar
+alt+e run configurations
+alt+s status bar 状态栏
+alt+m maven projects
+alt+d database
+
+F2 next highLightError
+Shift+F2 previous highLightError
+
