@@ -1,7 +1,13 @@
 ﻿Ctrl+D 复制行
 Ctrl+X 删除行
-ctrl+alt+b  进方法
 ctrl+u debug中的属性的置
+
+
+ctrl+alt+b  进方法
+ctrl+alt+o  自动导包 在eclipse中是 ctrl+shift+o
+
+ctrl+shift+alt+n 查找类中的方法
+
 alt+insert 注入get和set方法
 
 alt+1 projects
@@ -18,5 +24,6 @@ alt+m maven projects
 alt+d database
 
 F2 next highLightError
+
 Shift+F2 previous highLightError
 

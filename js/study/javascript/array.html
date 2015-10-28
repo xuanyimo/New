@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>array</title>
+</head>
+<body>
+	<script type="text/javascript">
+		function JoinDemo()
+		{
+		  var a, b;
+		  a = new Array(0,1,2,3,4);
+		  b = a.join("-");
+		  return(b);
+		}
+		alert("join:" + JoinDemo());
+		function ReverseDemo()
+		{
+		  var a, l;
+		  a = new Array(0,1,2,3,4);
+		  l = a.reverse();
+		  return(l);
+		}
+		alert("reverse:" + ReverseDemo());
+		function SortDemo()
+		{
+		  var a, l;
+		  a = new Array("X" ,"y" ,"d", "Z", "v","m","r");
+		  l = a.sort();
+		  return(l);
+		}
+		alert("sort:" + SortDemo());
+
+	</script>
+</body>
+</html>

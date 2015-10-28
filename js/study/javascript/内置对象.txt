@@ -1,0 +1,11 @@
+this:这个标签
+
+for(i in array):遍历数组
+
+with:
+eg: with(document){
+	write('1');
+	write('1');
+	write('1');
+	write('1');
+}
