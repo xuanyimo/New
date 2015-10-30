@@ -1,0 +1,1 @@
+可能是因为引用的weixin.js用的是http请求，应该用https请求
