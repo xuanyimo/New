@@ -1,6 +1,7 @@
 ﻿Ctrl+D 复制行
 Ctrl+X 删除行
 ctrl+u debug中的属性的置
+ctrl+F8 toggle a line breakpoint 在这一行打一个断点
 
 
 ctrl+alt+b  进方法
@@ -10,6 +11,8 @@ ctrl+alt+h  查看使用这个方法的函数
 ctrl+shift+alt+n 查找类中的方法
 
 alt+insert 注入get和set方法
+
+alt+shift+o 关闭其它文件
 
 alt+1 projects
 alt+2 favorates
