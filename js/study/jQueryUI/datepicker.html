@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" media="screen" href="jquery-ui-1.11.4.Redmond/jquery-ui.min.css">
+    <script src="../jquery-1.8.2.js"></script>
+    <script type="text/javascript" src="jquery-ui-1.11.4.Redmond/jquery-ui.min.js"></script>
+<script type="text/javascript">
+$(function() {
+    $.datepicker.regional["zh-CN"] = { closeText: "确定", prevText: "&#x3c;上月", nextText: "下月&#x3e;", currentText: "今天", monthNames: ["一月", "二月", "三月", "四月", "五月", "六月", "七月", "八月", "九月", "十月", "十一月", "十二月"], monthNamesShort: ["一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "十一", "十二"], dayNames: ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"], dayNamesShort: ["周日", "周一", "周二", "周三", "周四", "周五", "周六"], dayNamesMin: ["日", "一", "二", "三", "四", "五", "六"], weekHeader: "周", dateFormat: "yy-mm-dd", firstDay: 1, isRTL: !1, showMonthAfterYear: !0, yearSuffix: "年" }
+    $.datepicker.setDefaults($.datepicker.regional["zh-CN"]);
+    $('#startDate').datepicker( {
+        changeMonth: true,
+        changeYear: true,
+        showButtonPanel: true,
+        dateFormat: 'yy-mm',
+        onClose: function(dateText, inst) { 
+            var month = $("#ui-datepicker-div .ui-datepicker-month :selected").val();
+            var year = $("#ui-datepicker-div .ui-datepicker-year :selected").val();
+            $(this).datepicker('setDate', new Date(year, month, 1));
+        }
+    });
+});
+</script>
+<style>
+.ui-datepicker-calendar {
+    display: none;
+    }
+</style>
+</head>
+<body>
+    <label for="startDate">Date :</label>
+    <input name="startDate" id="startDate" />
+    <input type="text" onchange="alert(123)" />
+</body>
+</html>

@@ -1,0 +1,14 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\DOCUME~1\admin\×ÀÃæ\201404~1\VIM7~1.4-H\.chm
+
+
+Compile time: 9 minutes, 19 seconds
+133	Topics
+524	Local links
+0	Internet links
+0	Graphics
+
+
+Created c:\DOCUME~1\admin\×ÀÃæ\201404~1\VIM7~1.4-H\.chm, 3,989,007 bytes
+Compression decreased file by 2,370,718 bytes.

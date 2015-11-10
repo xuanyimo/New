@@ -1,4 +1,4 @@
-﻿Ctrl+D 复制行
+Ctrl+D 复制行
 Ctrl+X 删除行
 ctrl+u debug中的属性的置
 ctrl+F8 toggle a line breakpoint 在这一行打一个断点
@@ -28,6 +28,7 @@ alt+m maven projects
 alt+d database
 
 F2 next highLightError
+F11 full screen mode
 
 Shift+F2 previous highLightError
 

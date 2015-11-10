@@ -1,0 +1,535 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\arabic.cnx">
+		<param name="Local" value="arabic.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\autocmd.cnx">
+		<param name="Local" value="autocmd.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\change.cnx">
+		<param name="Local" value="change.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\cmdline.cnx">
+		<param name="Local" value="cmdline.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\debug.cnx">
+		<param name="Local" value="debug.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\debugger.cnx">
+		<param name="Local" value="debugger.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\develop.cnx">
+		<param name="Local" value="develop.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\diff.cnx">
+		<param name="Local" value="diff.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\digraph.cnx">
+		<param name="Local" value="digraph.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\editing.cnx">
+		<param name="Local" value="editing.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\eval.cnx">
+		<param name="Local" value="eval.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\farsi.cnx">
+		<param name="Local" value="farsi.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\filetype.cnx">
+		<param name="Local" value="filetype.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\fold.cnx">
+		<param name="Local" value="fold.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\ft_ada.cnx">
+		<param name="Local" value="ft_ada.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\ft_sql.cnx">
+		<param name="Local" value="ft_sql.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\gui.cnx">
+		<param name="Local" value="gui.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\gui_w16.cnx">
+		<param name="Local" value="gui_w16.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\gui_w32.cnx">
+		<param name="Local" value="gui_w32.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\gui_x11.cnx">
+		<param name="Local" value="gui_x11.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\hangulin.cnx">
+		<param name="Local" value="hangulin.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\hebrew.cnx">
+		<param name="Local" value="hebrew.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\help.cnx">
+		<param name="Local" value="help.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\helphelp.cnx">
+		<param name="Local" value="helphelp.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\howto.cnx">
+		<param name="Local" value="howto.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\if_cscop.cnx">
+		<param name="Local" value="if_cscop.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\if_lua.cnx">
+		<param name="Local" value="if_lua.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\if_mzsch.cnx">
+		<param name="Local" value="if_mzsch.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\if_ole.cnx">
+		<param name="Local" value="if_ole.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\if_perl.cnx">
+		<param name="Local" value="if_perl.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\if_pyth.cnx">
+		<param name="Local" value="if_pyth.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\if_ruby.cnx">
+		<param name="Local" value="if_ruby.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\if_sniff.cnx">
+		<param name="Local" value="if_sniff.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\if_tcl.cnx">
+		<param name="Local" value="if_tcl.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\indent.cnx">
+		<param name="Local" value="indent.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\index.cnx">
+		<param name="Local" value="index.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\insert.cnx">
+		<param name="Local" value="insert.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\intro.cnx">
+		<param name="Local" value="intro.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\map.cnx">
+		<param name="Local" value="map.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\mbyte.cnx">
+		<param name="Local" value="mbyte.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\message.cnx">
+		<param name="Local" value="message.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\mlang.cnx">
+		<param name="Local" value="mlang.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\motion.cnx">
+		<param name="Local" value="motion.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\netbeans.cnx">
+		<param name="Local" value="netbeans.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\options.cnx">
+		<param name="Local" value="options.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_390.cnx">
+		<param name="Local" value="os_390.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_amiga.cnx">
+		<param name="Local" value="os_amiga.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_beos.cnx">
+		<param name="Local" value="os_beos.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_dos.cnx">
+		<param name="Local" value="os_dos.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_mac.cnx">
+		<param name="Local" value="os_mac.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_mint.cnx">
+		<param name="Local" value="os_mint.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_msdos.cnx">
+		<param name="Local" value="os_msdos.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_os2.cnx">
+		<param name="Local" value="os_os2.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_qnx.cnx">
+		<param name="Local" value="os_qnx.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_risc.cnx">
+		<param name="Local" value="os_risc.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_unix.cnx">
+		<param name="Local" value="os_unix.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_vms.cnx">
+		<param name="Local" value="os_vms.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\os_win32.cnx">
+		<param name="Local" value="os_win32.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\pattern.cnx">
+		<param name="Local" value="pattern.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\pi_getscript.cnx">
+		<param name="Local" value="pi_getscript.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\pi_gzip.cnx">
+		<param name="Local" value="pi_gzip.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\pi_netrw.cnx">
+		<param name="Local" value="pi_netrw.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\pi_paren.cnx">
+		<param name="Local" value="pi_paren.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\pi_spec.cnx">
+		<param name="Local" value="pi_spec.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\pi_tar.cnx">
+		<param name="Local" value="pi_tar.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\pi_vimball.cnx">
+		<param name="Local" value="pi_vimball.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\pi_zip.cnx">
+		<param name="Local" value="pi_zip.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\print.cnx">
+		<param name="Local" value="print.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\quickfix.cnx">
+		<param name="Local" value="quickfix.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\quickref.cnx">
+		<param name="Local" value="quickref.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\quotes.cnx">
+		<param name="Local" value="quotes.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\recover.cnx">
+		<param name="Local" value="recover.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\remote.cnx">
+		<param name="Local" value="remote.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\repeat.cnx">
+		<param name="Local" value="repeat.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\rileft.cnx">
+		<param name="Local" value="rileft.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\russian.cnx">
+		<param name="Local" value="russian.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\scroll.cnx">
+		<param name="Local" value="scroll.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\sign.cnx">
+		<param name="Local" value="sign.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\spell.cnx">
+		<param name="Local" value="spell.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\sponsor.cnx">
+		<param name="Local" value="sponsor.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\starting.cnx">
+		<param name="Local" value="starting.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\syntax.cnx">
+		<param name="Local" value="syntax.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\tabpage.cnx">
+		<param name="Local" value="tabpage.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\tagsrch.cnx">
+		<param name="Local" value="tagsrch.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\term.cnx">
+		<param name="Local" value="term.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\tips.cnx">
+		<param name="Local" value="tips.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\todo.cnx">
+		<param name="Local" value="todo.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\uganda.cnx">
+		<param name="Local" value="uganda.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\undo.cnx">
+		<param name="Local" value="undo.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_01.cnx">
+		<param name="Local" value="usr_01.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_02.cnx">
+		<param name="Local" value="usr_02.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_03.cnx">
+		<param name="Local" value="usr_03.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_04.cnx">
+		<param name="Local" value="usr_04.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_05.cnx">
+		<param name="Local" value="usr_05.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_06.cnx">
+		<param name="Local" value="usr_06.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_07.cnx">
+		<param name="Local" value="usr_07.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_08.cnx">
+		<param name="Local" value="usr_08.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_09.cnx">
+		<param name="Local" value="usr_09.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_10.cnx">
+		<param name="Local" value="usr_10.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_11.cnx">
+		<param name="Local" value="usr_11.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_12.cnx">
+		<param name="Local" value="usr_12.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_20.cnx">
+		<param name="Local" value="usr_20.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_21.cnx">
+		<param name="Local" value="usr_21.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_22.cnx">
+		<param name="Local" value="usr_22.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_23.cnx">
+		<param name="Local" value="usr_23.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_24.cnx">
+		<param name="Local" value="usr_24.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_25.cnx">
+		<param name="Local" value="usr_25.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_26.cnx">
+		<param name="Local" value="usr_26.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_27.cnx">
+		<param name="Local" value="usr_27.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_28.cnx">
+		<param name="Local" value="usr_28.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_29.cnx">
+		<param name="Local" value="usr_29.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_30.cnx">
+		<param name="Local" value="usr_30.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_31.cnx">
+		<param name="Local" value="usr_31.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_32.cnx">
+		<param name="Local" value="usr_32.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_40.cnx">
+		<param name="Local" value="usr_40.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_41.cnx">
+		<param name="Local" value="usr_41.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_42.cnx">
+		<param name="Local" value="usr_42.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_43.cnx">
+		<param name="Local" value="usr_43.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_44.cnx">
+		<param name="Local" value="usr_44.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_45.cnx">
+		<param name="Local" value="usr_45.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_90.cnx">
+		<param name="Local" value="usr_90.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\usr_toc.cnx">
+		<param name="Local" value="usr_toc.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\various.cnx">
+		<param name="Local" value="various.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\version4.cnx">
+		<param name="Local" value="version4.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\version5.cnx">
+		<param name="Local" value="version5.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\version6.cnx">
+		<param name="Local" value="version6.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\version7.cnx">
+		<param name="Local" value="version7.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\visual.cnx">
+		<param name="Local" value="visual.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\vi_diff.cnx">
+		<param name="Local" value="vi_diff.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\windows.cnx">
+		<param name="Local" value="windows.cnx.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VIM: cnx\\workshop.cnx">
+		<param name="Local" value="workshop.cnx.html">
+		</OBJECT>
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,3 @@
+					java 中的regex								
+中文提取			[//u4E00-//u9FFF]+
+验证Email			[0-9a-zA-Z]+@[0-9a-zA-Z]+//.[0-9a-zA-Z]+
