@@ -11,9 +11,15 @@ ctrl+alt+r  reimport all maven projects
 
 ctrl+shift+alt+n 查找类中的方法
 
+ctrl+shift+p import project
+ctrl+shift+o open
+
 alt+insert 注入get和set方法
 
 alt+shift+o 关闭其它文件
+alt+shift+p new project
+alt+shift+m new module
+
 
 alt+1 projects
 alt+2 favorates
@@ -27,6 +33,7 @@ alt+e run configurations
 alt+s status bar 状态栏
 alt+m maven projects
 alt+d database
+alt+p new
 
 F2 next highLightError
 F11 full screen mode
