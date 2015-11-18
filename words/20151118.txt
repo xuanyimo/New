@@ -1,0 +1,25 @@
+eliminate
+	英 [ɪ'lɪmɪneɪt]   美 [ɪ'lɪmɪnet]
+	vt. 消除；排除
+persistence
+ 	英 [pə'sɪst(ə)ns]   美 [pɚ'sɪstəns]
+	n. 持续；固执；存留；坚持不懈；毅力
+retrieval
+ 	英 [rɪ'triːvl]   美 [rɪ'trivl]
+	n. 检索；恢复；取回；拯救
+primitives
+ 	英   美 ['prɪmətɪv] 
+	n. [计] 基元（primitive的复数）；原始事物；基本体
+fork   报错
+	英 [fɔːk]   美 [fɔrk]
+	n. 叉；餐叉；耙
+	vt. 叉起；使成叉状
+	vi. 分叉；分歧
+	n. (Fork)人名；(英、德)福克
+utility   报错
+ 	英 [juːˈtɪləti]   美 [ju'tɪləti]
+	n. 实用；效用；公共设施；功用
+	adj. 实用的；通用的；有多种用途的
+critical   报错
+ 	英 ['krɪtɪk(ə)l]   美 ['krɪtɪkl]
+	adj. 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的
