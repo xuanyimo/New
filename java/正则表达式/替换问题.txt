@@ -20,3 +20,33 @@ public static void main(String[] args){
         s = s.replaceAll("&#47;", "/");
         System.out.println(s);
     }
+
+
+
+        public static String toHtml(String string) {
+        List<String> labelNames = new ArrayList<String>();
+        labelNames.add("span");
+        labelNames.add("p");
+        for (String labelName : labelNames) {
+            String reg = "&lt;" + labelName + ".*?&lt;&#47;" + labelName + "&gt;";
+            Pattern pa = Pattern.compile(reg, Pattern.CANON_EQ);
+            Matcher ma = pa.matcher(string);
+            List<String> list = new ArrayList<String>();
+            while (ma.find()) {
+                list.add(ma.group());
+            }
+            for (String str : list) {
+                String newStr = str;
+
+                newStr = (StringUtil.replaceStr(newStr, "&lt;" + labelName, "<" + labelName));
+                newStr = (StringUtil.replaceStr(newStr, "&gt;", ">"));
+                newStr = (StringUtil.replaceStr(newStr, "&lt;&#47;" + labelName, "</" + labelName));
+
+                string = StringUtil.replaceStr(string, str, newStr);
+            }
+            string = (StringUtil.replaceStr(string, "&lt;&#47;" + labelName + "&gt;", "</" + labelName + ">"));
+        }
+        string = string.replaceAll("&nbsp;", " ");
+        string = string.replaceAll("&lt;br[\\s]*&#47;&gt;", "</br>");
+        return string;
+    }
