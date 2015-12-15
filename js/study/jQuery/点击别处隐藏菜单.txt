@@ -1,0 +1,7 @@
+var $menu = $('菜单');
+$(document).click(function(e) {
+	// 点击的不是这个菜单，而且不在这个菜单里的元素
+	if(!(e.target == $menu[0] || $.contains($menu[0], e.target))) {
+		$menu.hide();
+	}
+});
