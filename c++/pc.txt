@@ -1,0 +1,6 @@
+1, __declspec(selectany) const int className::sClassId = okcoin_class_id++;
+在头文件中定义static变量，要用__declspec(selectany)
+
+2, string to double
+stdlib.h
+double atof(str);
