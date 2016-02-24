@@ -1,0 +1,22 @@
+1, 匈牙利表示法：
+	i: 	表示int
+	sz: 表示以零结尾的字符串
+
+
+句柄：一个应用程序用来识别某件事情的数字 
+
+//windows程序入口
+int WINAPI WinMain(HINSTANCE hInstance, //句柄, 唯一标识该程序
+				HINSTANCE hPrevInstance, //用来检查是否有自身的其它实例在运行
+				LPSTR lpCmdLine,
+				int iCmdShow  
+				);
+
+MessageBox(NULL, 
+			TEXT("hello, world!"), //显示的消息
+			TEXT("hellowMsg"), // title
+			0 // 只显示ok按钮
+			);
+返回值为 IDOK (1), 还有其它的返回值:IDCANCEL(2), IDABORT(3), IDRETRY(4), IDIGNORE(5), IDYES(6), IDNO(7)
+
+
