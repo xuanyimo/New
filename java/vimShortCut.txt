@@ -1,5 +1,0 @@
-ctrl+w j/k 分屏后，前一个，后一个
-
-shift+% 下一个括号相互匹配
-
-ctrl+v I Esc 块编辑

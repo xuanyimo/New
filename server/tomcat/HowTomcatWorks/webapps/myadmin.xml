@@ -1,2 +1,0 @@
-<Context path="/myadmin" docBase="../server/webapps/myadmin" debug="8" privileged="true" reloadable="true">
-</Context>

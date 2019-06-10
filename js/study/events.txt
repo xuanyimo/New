@@ -1,8 +1,0 @@
-onload:当前文档加载完毕的时候
-onUnload:当前文档被替换的时候
-eg：<body onload="javascript:alert('hello');" onUnload="javascript:alert('byebye')"></body>
-
-onmouseover
-onmouseout
-onselect
-onsubmit 在提交的时候，还没有提交,return false时就不会再提交

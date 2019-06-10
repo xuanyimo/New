@@ -1,8 +1,0 @@
-ctrl+w j/k 分屏后，前一个，后一个
-
-shift+% 下一个括号相互匹配
-
-ctrl+f 下一页
-ctrl+b 上一页
-
-ctrl+v 进入块编辑模式， shift+i 插入，输入完成后 Esc,会同时加入内容
