@@ -1,0 +1,13 @@
+{
+  "node": true,
+  "latedef": false,
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "mocha": true,
+  "globals": {
+    "Promise": true,
+    "xit": true,
+    "xdescribe": true
+  }
+}

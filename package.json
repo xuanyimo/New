@@ -1,0 +1,10 @@
+
+{
+  "name": "new",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cucumber-js --parallel 2",
+    "test:nonprod": "bru run bruno/collections --env bruno/env/dev.json"
+  }
+}
+

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;AAAA,oDAA2B;AAGlB,gBAHF,eAAK,CAGE;AAFd,4CAAyB","sourcesContent":["import Query from './Query'\nexport * from './Lineage'\n\nexport { Query }\n"]}

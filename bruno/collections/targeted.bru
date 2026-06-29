@@ -1,0 +1,38 @@
+
+meta {
+  name: Search/Targeted API
+  type: http
+}
+
+post {
+  url: {{base_url}}/v{{version}}/search/providers?query=south africa&limit=500&providers=ebsco
+}
+
+headers {
+  Content-Type: application/json
+}
+
+body:jscon {
+ 
+{
+  "searchQuery": "south africa",
+  "limit": 500,
+  "providers": ["bmifitch", "ebsco"]
+}
+
+script:post-response {
+  const status = bru.response.status;
+
+  if (status !== 200) {
+    throw new Error(`Failed with status ${status}`);
+  }
+
+  const body = bru.response.body;
+
+  if (!body) {
+    throw new Error("Empty response");
+  }
+
+  console.log("Search POST successful");
+
+}}

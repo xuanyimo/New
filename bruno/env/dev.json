@@ -1,0 +1,7 @@
+
+{
+  "baseUrl": "{{base_url}}/v{{version}}/search/providers?query=south africa&limit=500&providers=ebsco",
+  "username": "testuser",
+  "password": "Test@123",
+  "token": "{{$oauth2.credentials.access_token}}"
+}
